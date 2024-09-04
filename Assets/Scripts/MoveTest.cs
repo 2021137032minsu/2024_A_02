@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveTest : MonoBehaviour
+public class Movetest : MonoBehaviour
 {
-    public Transform Move;
+    public Vector3 move;
     // Start is called before the first frame update
     void Start()
     {
